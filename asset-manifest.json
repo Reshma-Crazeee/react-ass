@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-ass/static/css/main.9cf966d1.chunk.css",
+    "main.js": "/react-ass/static/js/main.f4213c06.chunk.js",
+    "main.js.map": "/react-ass/static/js/main.f4213c06.chunk.js.map",
+    "runtime-main.js": "/react-ass/static/js/runtime-main.cee76759.js",
+    "runtime-main.js.map": "/react-ass/static/js/runtime-main.cee76759.js.map",
+    "static/js/2.503cb9f5.chunk.js": "/react-ass/static/js/2.503cb9f5.chunk.js",
+    "static/js/2.503cb9f5.chunk.js.map": "/react-ass/static/js/2.503cb9f5.chunk.js.map",
+    "static/js/3.c0d6e2f4.chunk.js": "/react-ass/static/js/3.c0d6e2f4.chunk.js",
+    "static/js/3.c0d6e2f4.chunk.js.map": "/react-ass/static/js/3.c0d6e2f4.chunk.js.map",
+    "index.html": "/react-ass/index.html",
+    "static/css/main.9cf966d1.chunk.css.map": "/react-ass/static/css/main.9cf966d1.chunk.css.map",
+    "static/js/2.503cb9f5.chunk.js.LICENSE.txt": "/react-ass/static/js/2.503cb9f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cee76759.js",
+    "static/js/2.503cb9f5.chunk.js",
+    "static/css/main.9cf966d1.chunk.css",
+    "static/js/main.f4213c06.chunk.js"
+  ]
+}
